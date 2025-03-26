@@ -19,7 +19,7 @@ This repository is dedicated to my journey of learning and mastering Machine Lea
 ## Projects  
 Here are the projects I have worked on so far:  
 
-1. **[Disease Prediction Using Machine Learning](./Health_Care/Disease_Prediction_Using_Machine_Learning/)** - Brief description of the project.  
+1. **[Disease Prediction Using Machine Learning](./Health_Care/Disease_Prediction_Using_Machine_Learning/)** - This project aims to develop a machine-learning model to predict diseases based on symptoms. It uses K-Fold Cross-Validation for model evaluation and implements three classifiers: Support Vector Classifier (SVC), Gaussian Naïve Bayes Classifier, and Random Forest Classifier. The goal is to build an efficient, accurate system for disease prediction using ensemble learning and probabilistic classification techniques
 
 
 *(More projects will be added as I progress! 🚀)*  
