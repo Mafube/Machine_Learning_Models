@@ -19,7 +19,7 @@ This repository is dedicated to my journey of learning and mastering Machine Lea
 ## Projects  
 Here are the projects I have worked on so far:  
 
-1. **[Disease Prediction Using Machine Learning](./Health_Care/ /)** - Brief description of the project.  
+1. **[Disease Prediction Using Machine Learning](./Health_Care/Disease_Prediction_Using_Machine_Learning/)** - Brief description of the project.  
 
 
 *(More projects will be added as I progress! 🚀)*  
