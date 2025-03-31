@@ -7,13 +7,13 @@ This project aims to develop a robust machine-learning model for disease classif
 - Pandas: Used for data manipulation, cleaning, and structuring the dataset before feeding it into machine learning models.
 
 # Machine Learning Algorithms Used
-- K-Fold Cross-Validation:
+- **K-Fold Cross-Validation:**
 
 A resampling technique used to assess the model’s generalizability and prevent overfitting.
 
 It splits the dataset into multiple subsets, trains the model on different combinations, and evaluates performance on the remaining subset.
 
-- Support Vector Classifier (SVC):
+- **Support Vector Classifier (SVC):**
 
 A supervised learning model used for classification tasks.
 
@@ -21,7 +21,7 @@ Works by finding the optimal hyperplane that maximizes the margin between differ
 
 Useful for high-dimensional datasets and can be effective in handling complex decision boundaries.
 
-- Gaussian Naive Bayes Classifier:
+- **Gaussian Naive Bayes Classifier:**
 
 A probabilistic classifier based on Bayes' Theorem.
 
@@ -29,7 +29,7 @@ Assumes features are normally distributed and calculates the likelihood of a dis
 
 Efficient for classification problems with a small dataset and performs well when the independence assumption holds.
 
-- Random Forest Classifier:
+- **Random Forest Classifier:**
 
 An ensemble learning method that constructs multiple decision trees during training.
 
